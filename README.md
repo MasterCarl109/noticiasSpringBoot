@@ -30,8 +30,9 @@ Antes de ejecutar este proyecto, asegúrate de tener instalados los siguientes c
 ## Configuración del entorno
 
 **Clonar el repositorio**
-   ```bash
+
    git clone https://github.com/MasterCarl109/noticiasSpringBoot.git
+
 
 ## Configurar la base de datos MySQL
 - Crear una base de datos llamada news.
