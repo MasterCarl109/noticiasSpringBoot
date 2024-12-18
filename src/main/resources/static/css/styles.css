@@ -1,11 +1,24 @@
 body {
-    background-color: #f8f9fa;
+    background-image: url('https://kajabi-storefronts-production.kajabi-cdn.com/kajabi-storefronts-production/file-uploads/blogs/2147498194/images/2686015-633d-1c7-e88-0005ec46bdf5_blog.jpg');
+    background-size: cover;
+    background-position: center;
+    color: #fff;
+    font-family: Arial, sans-serif;
+}
+
+header {
+    background-color: rgba(0, 0, 0, 0.7);
+}
+
+.container {
+    background-color: rgba(0, 0, 0, 0.8);
+    border-radius: 10px;
+    padding: 20px;
+    color: #fff;
 }
 
 .card {
-    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
-}
-
-.modal-title {
-    color: #007bff;
+    background-color: #fff;
+    color: #000;
+    margin-bottom: 20px;
 }
